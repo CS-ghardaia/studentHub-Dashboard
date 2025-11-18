@@ -1,0 +1,3 @@
+window.SUPABASE_URL = "https://vwiauslezgwdgliymytr.supabase.co";
+window.SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZ3aWF1c2xlemd3ZGdsaXlteXRyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjMwNDk4NjIsImV4cCI6MjA3ODYyNTg2Mn0.P65CjoHWx7gWoRyReWvXvmH5hqLDzIKpGXgd_MElBj0";
+window.DRIVE_API_ENDPOINT = "https://studenthub-drive-backend.onrender.com";
